@@ -37,13 +37,12 @@ import csv
 # search2 = driver.find_element_by_class_name('nav-input')
 # search2.click()
 
-path = r'\Users\Abcd\PycharmProjects\selenium-scrapy-beautifulsoap\chromedriver'
-
 #Use Incognito mode when scraping
 
+driver_path = os.path.join(os.getcwd(), 'chromedriver.exe')
 chrome_options = Options()
 chrome_options.add_argument(" — incognito")
-browser = webdriver.Chrome(path, options=chrome_options)
+browser = webdriver.Chrome(driver_path, options=chrome_options)
 # pages=int(input('How Many Pages Do You Want to Scrape? '))
 
 #define number of pages to scrape and starting URL (usually page 1)
