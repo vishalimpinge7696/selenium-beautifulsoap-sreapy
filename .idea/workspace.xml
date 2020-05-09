@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b998038c-9145-4b33-85a6-667ff21d5762" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/amazon_sel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amaz.py" beforeDir="false" afterPath="$PROJECT_DIR$/amaz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sele_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/sele_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sele_ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/sele_ex3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sele_ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/sele_ex2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +83,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="425" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588912147911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588912147911" />
     <state width="1328" height="134" key="GridCell.Tab.0.bottom" timestamp="1588867866557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

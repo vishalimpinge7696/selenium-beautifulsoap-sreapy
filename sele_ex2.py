@@ -14,7 +14,7 @@ pg = input("Enter the number of pages to scrap\n\n")
 for a in range(1, int(pg) + 1):
     print("Acessing page " + str(a))
 
-    temp_url = 'https://www.amazon.in/s/rh=n%3A976419031%2Cn%3A%21976420031%2Cn%3A1389401031&page='
+    temp_url = 'https://www.amazon.in/s/rh=n%3A976419031%2Cn%3A%21976420031%2Cn%3A1389401031&page=1'
 
     my_url = temp_url + str(a)
     req = Request(my_url, headers={'User-Agent': 'Mozilla/5.0'})
