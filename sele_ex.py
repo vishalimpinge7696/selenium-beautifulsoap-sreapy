@@ -94,4 +94,5 @@ list_data.to_csv('tests2.csv')
 sigo = driver.find_element_by_class_name('nav-text')
 sigo.click()
 
+driver.quit()
 
